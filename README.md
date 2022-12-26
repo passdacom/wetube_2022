@@ -42,4 +42,4 @@
 /videos/:id/delete → Delete Video
 /videos/upload → Upload video
 
-"# wetube-reloaded" 
+"# wetube_2022" 
